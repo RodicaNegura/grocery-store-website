@@ -386,6 +386,31 @@ section {
   outline-offset: 0;
 }
 
+.features 
+.box-container 
+.box img {
+  margin: 1rem 0;
+  height: 15rem;
+}
+
+.features 
+.box-container 
+.box h3 {
+  font-size: 2.5rem;
+  line-height: 1.8;
+  color: var(--black);
+}
+
+.features 
+.box-container 
+.box p {
+  font-size: 1.5rem;
+  line-height: 1.8;
+  color: var(--light-color);
+  padding: 1rem 0;
+}
+
+
 
 
 @media (max-width: 991px){
